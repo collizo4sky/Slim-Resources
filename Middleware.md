@@ -1,5 +1,11 @@
 #Middleware#
 
+##Flexible Route Loader for Slim##
+https://github.com/ecoreng/FlexibleRouteLoader
+
+##Slim extension to implement fast JSON API's##
+https://github.com/entomb/slim-json-api
+
 ##HTTP Basic Authentication for Slim Framework##
 https://github.com/tuupola/slim-basic-auth
 
