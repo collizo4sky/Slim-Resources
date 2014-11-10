@@ -1,7 +1,7 @@
 #Middleware#
 
-##Flexible Route Loader for Slim##
-- https://github.com/ecoreng/FlexibleRouteLoader
+##Module Loader Middleware##
+- https://github.com/ecoreng/module-loader-middleware
 
 ##Slim extension to implement fast JSON API's##
 - https://github.com/entomb/slim-json-api

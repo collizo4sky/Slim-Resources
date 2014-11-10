@@ -1,5 +1,9 @@
 #Other Useful Stuff#
 
+##Flexible Service Provider##
+- Service Provider for Pimple - Configurable by array (Works with Slim 3.* Container)
+- https://github.com/ecoreng/FlexibleServiceProvider
+
 ##YO Angular PHP Crud##
 - A sample Yeoman application with an integrated Slim PHP CRUD API
 - https://github.com/seyDoggy/yo-angular-php-crud
