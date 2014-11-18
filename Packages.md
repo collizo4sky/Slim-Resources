@@ -10,3 +10,11 @@
 ##Slim Services##
 - Service manager for Slim compatible with Laravel packages
 - https://github.com/itsgoingd/slim-services
+
+##Slim Auth##
+- Slim Auth is an authorization and authentication library for the Slim Framework using ZF Auth + ACL
+- https://github.com/jeremykendall/slim-auth
+
+##Flexible Route Loader##
+- Load routes from an array into Slim
+- https://github.com/ecoreng/flexible-route-loader
