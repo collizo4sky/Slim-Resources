@@ -1,5 +1,8 @@
 #Middleware#
 
+##Slim DebugBar##
+- https://github.com/yusukezzz/slim-debugbar
+
 ##Module Loader Middleware##
 - https://github.com/ecoreng/module-loader-middleware
 
